@@ -10,7 +10,7 @@ Welcome! Below are the key deliverables for this capstone project. Each link ope
 
 ### 📊 Dashboard
 **Dashboard showing key trend charts and visualizations:**  
-👉 [Technology Trends Dashboard (PDF)]([CLEANED%20DATA/Dashboard.pdf](https://github.com/ShounBiju/IBM-Data-Analyst-Capstone-Technology-Trends-Survey-Analysis/blob/main/Capstone%20Project%20IBM.pdf)
+👉 [Technology Trends Dashboard (PDF)](https://github.com/ShounBiju/IBM-Data-Analyst-Capstone-Technology-Trends-Survey-Analysis/blob/main/Capstone%20Project%20IBM.pdf)
 
 ### 🧹 Cleaned Data
 **Processed CSV files generated from the survey (Top 10 counts, demographic summaries):**  
