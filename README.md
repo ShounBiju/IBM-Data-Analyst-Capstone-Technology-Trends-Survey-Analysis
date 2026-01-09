@@ -40,5 +40,4 @@ The **cleaned datasets**, **Python notebook**, **dashboard**, and **presentation
 
 ---
 
-## 📁 Repository Contents
 
