@@ -1,0 +1,65 @@
+Age,EducationLevel,Count
+18-24 years old,"Associate degree (A.A., A.S., etc.)",132
+25-34 years old,"Associate degree (A.A., A.S., etc.)",231
+35-44 years old,"Associate degree (A.A., A.S., etc.)",176
+45-54 years old,"Associate degree (A.A., A.S., etc.)",68
+55-64 years old,"Associate degree (A.A., A.S., etc.)",22
+65 years or older,"Associate degree (A.A., A.S., etc.)",4
+Prefer not to say,"Associate degree (A.A., A.S., etc.)",0
+Under 18 years old,"Associate degree (A.A., A.S., etc.)",1
+18-24 years old,"Bachelor's degree (B.A., B.S., B.Eng., etc.)",1468
+25-34 years old,"Bachelor's degree (B.A., B.S., B.Eng., etc.)",3985
+35-44 years old,"Bachelor's degree (B.A., B.S., B.Eng., etc.)",2115
+45-54 years old,"Bachelor's degree (B.A., B.S., B.Eng., etc.)",783
+55-64 years old,"Bachelor's degree (B.A., B.S., B.Eng., etc.)",237
+65 years or older,"Bachelor's degree (B.A., B.S., B.Eng., etc.)",25
+Prefer not to say,"Bachelor's degree (B.A., B.S., B.Eng., etc.)",11
+Under 18 years old,"Bachelor's degree (B.A., B.S., B.Eng., etc.)",5
+18-24 years old,"Master's degree (M.A., M.S., M.Eng., MBA, etc.)",299
+25-34 years old,"Master's degree (M.A., M.S., M.Eng., MBA, etc.)",2178
+35-44 years old,"Master's degree (M.A., M.S., M.Eng., MBA, etc.)",1685
+45-54 years old,"Master's degree (M.A., M.S., M.Eng., MBA, etc.)",616
+55-64 years old,"Master's degree (M.A., M.S., M.Eng., MBA, etc.)",196
+65 years or older,"Master's degree (M.A., M.S., M.Eng., MBA, etc.)",22
+Prefer not to say,"Master's degree (M.A., M.S., M.Eng., MBA, etc.)",4
+Under 18 years old,"Master's degree (M.A., M.S., M.Eng., MBA, etc.)",0
+18-24 years old,Primary/elementary school,25
+25-34 years old,Primary/elementary school,30
+35-44 years old,Primary/elementary school,26
+45-54 years old,Primary/elementary school,7
+55-64 years old,Primary/elementary school,4
+65 years or older,Primary/elementary school,2
+Prefer not to say,Primary/elementary school,0
+Under 18 years old,Primary/elementary school,38
+18-24 years old,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",20
+25-34 years old,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",157
+35-44 years old,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",249
+45-54 years old,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",153
+55-64 years old,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",65
+65 years or older,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",13
+Prefer not to say,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",2
+Under 18 years old,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",2
+18-24 years old,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",495
+25-34 years old,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",288
+35-44 years old,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",197
+45-54 years old,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",70
+55-64 years old,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",17
+65 years or older,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",1
+Prefer not to say,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",2
+Under 18 years old,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",73
+18-24 years old,Some college/university study without earning a degree,496
+25-34 years old,Some college/university study without earning a degree,843
+35-44 years old,Some college/university study without earning a degree,665
+45-54 years old,Some college/university study without earning a degree,344
+55-64 years old,Some college/university study without earning a degree,88
+65 years or older,Some college/university study without earning a degree,7
+Prefer not to say,Some college/university study without earning a degree,3
+Under 18 years old,Some college/university study without earning a degree,10
+18-24 years old,Something else,53
+25-34 years old,Something else,76
+35-44 years old,Something else,36
+45-54 years old,Something else,12
+55-64 years old,Something else,3
+65 years or older,Something else,1
+Prefer not to say,Something else,2
+Under 18 years old,Something else,7
